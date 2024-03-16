@@ -33,6 +33,6 @@ esac
 
 cd /opt
 rm -fdr halter
-git clone https://ftonioloviemar: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@github.com/ftonioloviemar/halter.git
+git clone https://ftonioloviemar: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@github.com/ftonioloviemar/halter.git
 cd halter
 source install.sh
